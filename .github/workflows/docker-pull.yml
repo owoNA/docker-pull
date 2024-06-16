@@ -18,7 +18,7 @@ on:
       TARGET_REPOSITORY:
         description: '空间名称'
         required: true
-        default: 'xk_workspace'
+        default: 'xukai5'
       ARCH:
         description: '系统架构'
         required: true
